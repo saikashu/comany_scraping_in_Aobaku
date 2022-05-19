@@ -1,9 +1,5 @@
 # comany_scraping_in_Aobaku
-仙台市青葉区のIT企業をscrapingで取得したのちcsv化して、住所をyahoo地図に登録するプログラム。
-直下にchromedriverを入れるかパスを通すと動作します。
-
-使用方法：スマホのyahoo地図と印刷したcsvを見ながら、IT企業に履歴書と職務経歴書を投函する？
+仙台市青葉区のIT企業をscrapingで取得する。
+googleマップのマイプレイス機能で住所情報のcsvをインポートする用のcsvも作成。
 
 動作環境：windows10home, anaconda(python3.9.7)
-
-追記：googleマップのマイプレイス機能で住所情報のcsvをインポートしたほうが早いです。
