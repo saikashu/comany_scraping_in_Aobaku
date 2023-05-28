@@ -1,5 +1,7 @@
 # comany_scraping_in_Aobaku
 仙台市青葉区のIT企業をscrapingで取得します。
 googleマップのマイプレイス機能で住所情報をインポートする用のcsvも作成しています。
+googleのバージョンを確認して、バージョンに合ったchromedriverを同一フォルダ内に置いてください。
+※サイト閉鎖により使用不可となりました。scrapingの参考程度に。
 
 動作環境：windows10home, anaconda(python3.9.7)
